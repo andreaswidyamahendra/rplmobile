@@ -1,0 +1,3 @@
+1. Taruh folder crudsikp didalam htdocs
+
+sekian terima kasih.
